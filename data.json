@@ -23,17 +23,10 @@
     },
     {
       "id": "59dde0de47b61d96286c4f18",
-      "age": 31,
+      "age": "22",
       "name": "Marguerite Hunter",
       "gender": "female",
       "email": "margueritehunter@zedalis.com"
-    },
-    {
-      "id": "R31k6eP",
-      "age": "21",
-      "name": "phil",
-      "email": "seb@gmail.com",
-      "gender": "male"
     }
   ]
 }
